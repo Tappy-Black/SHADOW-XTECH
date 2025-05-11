@@ -1,8 +1,20 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=XEON-XMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=SHADOW-XTECH" alt="Typing SVG" /></a>
   </p>
++
+
+> **`Updated` SHADOW-XTECH with Latest Features**
+
+## CONTACT SHADOW-XTECH OWNER
+  
+<a href="https://wa.me/254759000340"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=100086056192263&name=xhp_nt__fb__action__open_use"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.instagram.com/bright_leizer_?igsh=Y2JmcnE1ajNjZXM=&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/Tappy-Black/SHADOW-XTECH/tree/main"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="SHADOW-XTECH "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</p>
+
 
 ```
-𝑺ʜᴀᴅᴏᴡ ✘ᴛᴇᴄʜ 𝐁𝐘 Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ 🩷 
+𝗦𝗛𝗔𝗗𝗢𝗪 𝗫𝗧𝗘𝗖𝗛 𝐁𝐘 Ⴊ𝗹𐌀Ꮳ𝗸𐌕𐌀ႲႲჄ 🎲
 ```
 
 --- 
@@ -12,22 +24,20 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Tappy-Black"><img title="Developer" src="https://img.shields.io/badge/Author-Tappy%20Black-FF7604.svg?style=big-square&logo=github" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
-  
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10)
+  <a href="https://github.com/Tappy-Black/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tappy-Black?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Tappy-Black/SHADOW-XTECH/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tappy-Black/SHADOW-XTECH?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Tappy-Black/SHADOW-XTECH/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tappy-Black/SHADOW-XTECH?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Tappy-Black/SHADOW-XTECH/"><img title="Size" src="https://img.shields.io/github/repo-size/Tappy-Black/SHADOW-XTECH?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Tappy-Black/SHADOW-XTECH/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SHADOW-XTECH}/count.svg" alt="Tappy-Black :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tappy-Black}/count.svg" /></p>
-
-
 <p align="center">
-<a href="https://github.com/Tappy-Black/SHADOW-XTECH"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SHADOW-XTECH&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SHADOW-XTECH&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
-</p> 
 
 ### 1. Fork This Repository
 
@@ -41,7 +51,7 @@ Click the button below to fork:
 </p>  
 
 
-## 👻 Dᴇᴘʟᴏʏ Sʜᴀᴅᴏᴡ Xᴛᴇᴄʜ 👻
+## 👻 ᴅᴇᴘʟᴏʏ ꜱʜᴀᴅᴏᴡ xᴛᴇᴄʜ 👻
 
 > Deploy on Heroku
 
@@ -55,8 +65,8 @@ Click the button below to fork:
 
 ## ᴄʀᴇᴅɪᴛs ᴀɴᴅ ᴅᴇᴠs
 > Sʜᴀᴅᴏᴡ Xᴛᴇᴄʜ Owner 
-- [Ⴊl𐌀Ꮳk𐌕𐌀ႲႲჄ](https://github.com/Tappy-Black)
-- Creater and Owner Of XEON-XMD
+- [Black-Tappy](https://github.com/Black-Tappy)
+- Creater and Owner Of XEON-XMD 
 > Sʜᴀᴅᴏᴡ Xᴛᴇᴄʜ Helpers 
 - [POPKID](https://github.com/Popkiddevs)
 - For helping in bot plugin files.
